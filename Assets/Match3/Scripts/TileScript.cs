@@ -1,7 +1,7 @@
 ﻿/*
 *************************************************************************************************************************************************************
 The MIT License(MIT)
-Copyright(c) 2016 Zvedza ★ Software
+Copyright(c) 2016 Zvezda ★ Software
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"),
 to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense,
@@ -22,7 +22,7 @@ They're all Public domain so you can do whatever you want with them.
 
 Would be nice if you credit us in your projects.
 
-Zvedza ★ Software
+Zvezda ★ Software
 **************************************************************************************************************************************************************
 */
 using UnityEngine;

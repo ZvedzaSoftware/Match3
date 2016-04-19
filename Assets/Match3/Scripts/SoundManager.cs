@@ -22,7 +22,7 @@ They're all Public domain so you can do whatever you want with them.
 
 Would be nice if you credit us in your projects.
 
-Zvedza ★ Software
+Zvezda ★ Software
 **************************************************************************************************************************************************************
 */
 using UnityEngine;
