@@ -1840,7 +1840,7 @@ public class GridScript : MonoBehaviour
         }
     }
     /// <summary>
-    /// Performs the behavior selected con shuffleBehavior, MUST be called from Update() or FixedUpdate();
+    /// Performs the behavior selected on shuffleBehavior, MUST be called from Update() or FixedUpdate();
     /// </summary>
     private void ShuffleScript()
     {
